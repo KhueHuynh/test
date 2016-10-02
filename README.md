@@ -1,2 +1,1 @@
-#SÀI GÒN- THÀNH PHỐ TÔI YÊU
-# SÀI GÒN- THÀNH PHỐ TÔI YÊU
+<table style="border:none;width:100%"><tr border="none"> <td style="vertical-align: middle; text-align:center;border:none">*Việt Nam đất nước ta ơi*</td></tr><tr border="none"> <td style="vertical-align: middle; text-align:center;border:none">*Mênh mông biển lúa đâu trời đẹp hơn*</td></tr><tr border="none"> <td style="vertical-align: middle; text-align:center;border:none">*Cánh cò bay lả rập rờn*</td></tr><tr border="none"> <td style="vertical-align: middle; text-align:center;border:none">*Mây mờ che đỉnh Trường Sơn sớm chiều...*</td></tr><tr border="none"> <td style="vertical-align: right; text-align:right;border:none">(Nguyễn Đình Thi)</td></table>
